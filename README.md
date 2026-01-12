@@ -41,7 +41,8 @@ SWCMS (**Sections & Widgets CMS**) is a **modular and scalable Laravel-based CMS
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahalam005/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaha2266@gmail.com)  
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://shah2266.github.io/shah2266/)
+[![Website](https://img.shields.io/badge/Website-4AB197?style=flat&logo=google-chrome&logoColor=white)](https://shah2266.github.io/shah2266/)
+
 
 ---
 
