@@ -384,6 +384,10 @@ Page content
 	margin-top: 5em;
 }
 
+.button .btn {
+  color: #ebedff!important;
+}
+
 @media screen and (max-width: 768px) {
   .button {
     justify-content: space-between;
