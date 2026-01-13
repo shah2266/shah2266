@@ -587,13 +587,13 @@ Projects page
   object-fit: cover;
   position: absolute;
   top: 0;
-  filter: grayscale(100%);
+  filter: grayscale(0);
   transition: filter 0.35s ease;
 }
 
 /* Hover effect */
 .project-list .project-item img:hover {
-  filter: grayscale(0);
+  filter: grayscale(100%);
 }
 
 /* Landscape */
@@ -620,6 +620,19 @@ Projects page
 	height: 4px;
 	background: var(--theme-color);
 	position: absolute;
+}
+
+.project-list .project-content a {
+  color: #3e78f7;
+}
+
+.project-list .project-content a:hover {
+  color: #0a51e9;
+}
+
+.project-list .project-content ul {
+  list-style: initial;
+  margin-left: 30px;
 }
 
 @media screen and (max-width: 768px) {
