@@ -18,7 +18,7 @@ html {
 }
 
 :root {
-  --default-color: #000;
+  --default-color: #434855;
   --theme-color: #0050ff;
 }
 
@@ -192,7 +192,7 @@ header {
   .hamburger-menu span {
     width: 40px;
     height: 5px;
-    background: #000;
+    background: #434855;
     margin: 2px auto;
   }
 
