@@ -329,7 +329,7 @@ Home page
 .banner h1 {
   font-size: 5em;
   color: var(--theme-color);
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .profile-image {
@@ -414,7 +414,7 @@ Page content
 
 .content h1 {
 	font-size: 5em;
-  font-weight: 900;
+  font-weight: 800;
   margin-block: .5em;
 }
 .content h1 a:after {
